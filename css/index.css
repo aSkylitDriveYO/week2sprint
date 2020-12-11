@@ -207,13 +207,11 @@ button:hover {
 
 @media (max-width: 500px) {
   .artists-container {
-    background-color: green;
     flex-direction: column;
     justify-content: center=;
     align-items: center;
   }
   .artist {
-    border: 2px solid red;
     width: 30rem;
   }
 }
